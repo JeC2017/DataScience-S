@@ -1,3 +1,2 @@
-#### Practical Machine Learning - JHU
-#### prediction assignment writeup
+#### Practical Machine Learning - JHU: prediction assignment writeup
 #### DataScience-S
